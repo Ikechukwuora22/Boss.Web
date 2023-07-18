@@ -79,7 +79,8 @@ Header a:hover {
 /* showcase */
 #showcase{
     Min-height:400px;
-    background: url("showcase.jpeg") no-repeat ;
+    Background-repeat :no-repeat ;
+    Background:url("showcase.jpg");
     Background-position: center ;
     background-size : cover ;
     Text-align :center ;
